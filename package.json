@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "c3": "^0.4.11",
-    "phantomjs": "^2.1.7"
+    "phantomjs-prebuilt": "^2.1.14"
   }
 }
